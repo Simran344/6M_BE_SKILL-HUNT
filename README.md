@@ -1,0 +1,1 @@
+PORT=5000 MONGO_URI="mongodb+srv://simranbatra344:simran123@cluster0.nu1uhdm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/SkillHunt" JWT_SECRET="SkillHunt@123" CLOUD_name='dydojou43' API_key='418897588488486' API_secret='MPTSkCAKVlofh5EsMpbolkuiBYI'
